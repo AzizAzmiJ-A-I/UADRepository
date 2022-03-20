@@ -75,6 +75,7 @@ int main() {
     }
 
     while (ulang != 't');
-    cout << "Terima Kasih ";
-    cout << endl;
+    cout << "============================"<<endl;
+    cout << "	Terima Kasih 	"<<endl;
+    cout << "============================"<< endl;
 }
